@@ -1,0 +1,5 @@
+{
+  "name": "AI Pro Headshot Generator ",
+  "description": "Upload a photo and choose from predefined styles to generate a professional headshot. The AI preserves natural imperfections for authentic, high-quality results. Refine your image with follow-up prompts until it's perfect.",
+  "requestFramePermissions": []
+}
